@@ -11,7 +11,7 @@
     - (Frozen) Sets
     - Dictionary
 - Classes
-- __init()__:
+- __init__():
 - etc.
 
 ### Added
