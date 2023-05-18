@@ -1,5 +1,11 @@
 # Changelog format: https://keepachangelog.com/en/1.1.0/
 # Version format: https://semver.org
+
+## [1.0.1] - 2023-05-18
+### Added
+- 6.5
+    - return()
+
 ## [1.0.0] - 2023-05-18
 
 ### Unreleased
