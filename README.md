@@ -3,7 +3,7 @@
 
 ## [1.0.1] - 2023-05-18
 ### Added
-- 6.5
+- 6.5 Miscellaneous Functions
     - return()
 
 ## [1.0.0] - 2023-05-18
